@@ -1,57 +1,56 @@
 <div align="center">
 
-# Francesco Gennaro Oliva
+![Francesco Gennaro Oliva — PMO, Business Intelligence and Data Analytics](assets/profile-banner.svg)
 
-### PMO · Business Intelligence · Data Analytics
+<br>
 
-**Power BI · Power Automate · Data Visualization · Process Automation**
+**Power BI** &nbsp;·&nbsp; **Power Query & DAX** &nbsp;·&nbsp; **Power Automate** &nbsp;·&nbsp; **Excel / VBA**
 
-[**Connect on LinkedIn ↗**](https://www.linkedin.com/in/francescogennarooliva)
+[LinkedIn ↗](https://www.linkedin.com/in/francescogennarooliva) &nbsp;·&nbsp; [Explore repositories](https://github.com/francescogennarooliva?tab=repositories)
 
 </div>
 
 ---
 
-### About
+### A little about me
 
-I work in a **PMO role at Capgemini**, combining operational performance management, workforce forecasting and resource planning with the development of data-driven solutions.
+I work in a **PMO role at Capgemini**, combining operational performance monitoring, workforce forecasting and resource management with the development of Business Intelligence and automation solutions.
 
-My work includes **developing Power BI reports and interactive dashboards**—from Power Query transformations and data modeling to DAX measures and data visualization—alongside process automation using **Power Automate, SharePoint and Excel/VBA**.
+I develop **Power BI reports and interactive dashboards**, working from Power Query transformations and data modeling through DAX measures and data visualization. I also build process improvements with **Power Automate, SharePoint and Excel/VBA**.
 
-Previously, at **Accenture**, I worked with enterprise applications and data integration in the automotive industry, gaining experience in data flows, system integration and business process improvement.
+Before Capgemini, I worked at **Accenture** on enterprise applications and data integration in the automotive industry—experience that continues to inform how I approach data quality, integration and business needs.
 
-I'm particularly interested in **Data Visualization and User Experience**: making data clear, intuitive and useful. I enjoy exploring emerging technologies and finding practical ways to improve how people work.
+I'm especially drawn to the intersection of **data, design and usability**. I enjoy making complex information clearer and exploring emerging technologies that can help people work more effectively.
 
-### Areas of focus
+### Focus areas
 
-| Business Intelligence & Analytics | Automation & Operations |
-| :--- | :--- |
-| Power BI reporting and dashboards | Power Automate workflows |
-| Power Query and data transformation | Excel and VBA automation |
-| Data modeling and DAX | SharePoint-based processes |
-| KPI analysis and data visualization | Forecasting and resource planning |
-| Data integration and validation | Operational reporting |
+| **Business Intelligence** | **Automation & Operations** |
+|:--|:--|
+| Power BI reporting & dashboards | Power Automate workflows |
+| Power Query, data modeling & DAX | Excel & VBA solutions |
+| Data visualization & dashboard UX | SharePoint-based processes |
+| Data integration & validation | Forecasting, KPIs & resource planning |
 
-### Tools & technologies
+### Working toolkit
 
-**Analytics:** Power BI · Power Query · DAX · Microsoft Excel
+**Analytics** &nbsp; Power BI · Power Query · DAX · Microsoft Excel
 
-**Automation:** Power Automate · Microsoft Power Platform · SharePoint · VBA
+**Automation** &nbsp; Power Automate · Microsoft Power Platform · VBA · SharePoint
 
-**Business & data:** Data Integration · Data Modeling · KPI Reporting · Forecasting · Resource Management
+**Cross-functional** &nbsp; Data Integration · Business Analysis · Forecasting · Operational Reporting
 
-### Projects
+### Projects & exploration
 
-This space will feature independent learning and demonstration projects focused on Business Intelligence, automation and thoughtful dashboard design.
+I'm building this space to share **independent demonstrations** around Business Intelligence, dashboard design and automation. Projects will be added as they are developed and documented.
 
-*Any future demonstrations will use non-confidential data and will be separate from internal client or employer projects.*
+> Demonstrations here will use synthetic or publicly shareable data, never confidential company or client information.
 
 ---
 
 <div align="center">
 
-**Technology, analytical thinking & thoughtful design.**
+*Clear data. Thoughtful design. Practical technology.*
 
-[LinkedIn](https://www.linkedin.com/in/francescogennarooliva)
+[**Connect on LinkedIn →**](https://www.linkedin.com/in/francescogennarooliva)
 
 </div>
